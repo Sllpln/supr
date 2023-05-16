@@ -1,0 +1,194 @@
+body {
+-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: 'Montserrat', sans-serif;
+}
+
+.screenblock {
+width: 95vw;
+max-width: 100%;
+height: 43vw;
+top: 4vw;
+background-color: black;
+margin: 0 auto;
+position: relative;
+overflow: hidden;
+}
+
+.pink {
+width: 95vw;
+max-width: 100%;
+height: 12.5vw;
+top: 0;
+background-color: #E5CBCE;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
+
+.white {
+width: 95vw;
+max-width: 100%;
+height: 30.5vw;
+top: 12.5vw;
+background-color: white;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
+
+.blue {
+width: 30vw;
+height: 30.5vw;
+top: 12.5vw;
+left: 65vw;
+background-color: #445DAA;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
+
+.blue2 {
+width: 42vw;
+height: 13.5vw;
+top: 29.5vw;
+left: 0;
+background-color: #445DAA;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
+
+.viol {
+width: 46vw;
+height: 19.5vw;
+top: 33.5vw;
+left: 0;
+background-color: #341850;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
+
+.blue3 {
+width: 4vw;
+height: 4vw;
+top: 5.5vw;
+left: 10vw;
+background-color: #445DAA;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
+
+.viol2 {
+width: 8vw;
+height: 10vw;
+top: 8.5vw;
+left: 8vw;
+background-color: #341850;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
+
+.pink2 {
+width: 30vw;
+height: 8.5vw;
+top: 20.7vw;
+left: 34.6vw;
+background-color: #E5CBCE;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
+@keyframes go-right-left {
+from { right: 0px; }
+to { right: calc(100% - 91.8vw); }
+}
+
+.orange {
+width: 43vw;
+height: 4.5vw;
+top: 8vw;
+left: 26.6vw;
+background-color: #fff0da;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
+
+.orange2 {
+width: 43vw;
+height: 3.5vw;
+top: 12.5vw;
+left: 26.6vw;
+background-color: #ff7f50;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
+
+.orange3 {
+width: 6vw;
+height: 13.5vw;
+top: 2.5vw;
+left: 13vw;
+background-color: #ff7f50;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
+
+.bblack {
+width: 15vw;
+height: 34.5vw;
+top: 8.5vw;
+left: 80vw;
+background-color: #000000;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
+
+.bblack2 {
+width: 40vw;
+height: 13.5vw;
+top: 29.5vw;
+left: 53vw;
+background-color: #000000;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
+
+.red {
+width: 26vw;
+height: 23.5vw;
+top: 19.5vw;
+left: 69vw;
+background-color: #DC143C;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
+
+.red2 {
+width: 12vw;
+height: 30.5vw;
+top: 12.5vw;
+left: 0;
+background-color: #DC143C;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
+
+.red3 {
+width: 22.5vw;
+height: 10.5vw;
+top: 38vw;
+left: 27vw;
+background-color: #DC143C;
+margin: 0 auto;
+position: absolute;
+overflow: hidden;
+}
